@@ -1,4 +1,4 @@
-body {
+head {
   margin: 0;
 }
 
@@ -7,7 +7,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 15%;
-  background-color: #332717;
+  background-color: #8a857f;
   position: fixed;
   height: 100%;
   overflow: auto;
