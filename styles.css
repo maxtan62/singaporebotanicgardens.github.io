@@ -15,7 +15,7 @@ ul {
 
 li a {
   display: block;
-  color: #000;
+  color: #997450;
   padding: 8px 16px;
   text-decoration: none;
 }
@@ -26,6 +26,6 @@ li a.active {
 }
 
 li a:hover:not(.active) {
-  background-color: #555;
+  background-color: #3d5c2c;
   color: black;
 }
